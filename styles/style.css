@@ -1,0 +1,70 @@
+
+header{
+    
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(7, 2, 17, 0.00) 100%);;
+}
+.container{
+  
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+    margin: 0 auto;
+}
+.banner-text{
+    position: absolute;
+    color: #FFF;
+    left: 18rem;
+    top: 2rem;
+    padding: 0 1rem;
+}
+#new{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 52px;
+font-style: normal;
+font-weight: 900;
+line-height: 85px; 
+margin-left: 200px;
+width: 632px;
+}
+h5{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.content{
+    text-align: center;
+    font-size: 88px;
+    color: #F00;
+    position: relative;
+}
+.para{
+    color: #F00;
+    font-size: 20px;
+    margin: 0;
+    font-family: Inter;
+    bottom: 0;
+}
+.para1{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+  .image{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+margin: 150px 200px 300px 400px;
+margin-top: 0%;
+  }
